@@ -1,0 +1,22 @@
+# Python / general
+__pycache__/
+*.pyc
+.venv/
+.venv/*
+
+# Secrets and envs
+secrets/
+.env
+*.key
+
+# Generated / large data
+autocall/audio_temp/
+transcripts/
+models/
+*.wav
+*.mp3
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
