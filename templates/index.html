@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>callcenter.org</title>
+    <style>
+        body {
+            font-family: "Segoe UI", sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .box {
+            background-color: #ffffff;
+            padding: 25px;
+            margin-top: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .box h2 {
+            color: #3498db;
+            margin-bottom: 15px;
+            font-size: 22px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 8px;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .ai-option {
+            font-weight: bold;
+            font-size: 18px;
+            color: #2c3e50;
+            background-color: #ecf3fb;
+            padding: 12px;
+            border-left: 5px solid #3498db;
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+
+        .ai-details {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>📞 Call Center</h1>
+
+    <div class="box">
+    <h2 style="display: flex; justify-content: space-between; align-items: center;">
+        <span>Script</span>
+        <button id="copy-btn" onclick="copyTranscript()" style="background-color: #3498db; color: white; border: none; padding: 6px 12px; border-radius: 5px; cursor: pointer; transition: background 0.3s;">
+    📋 <span id="copy-btn-text">Copy</span>
+</button>
+
+    </h2>
+    <pre id="transcript-text">{{ transcript }}</pre>
+</div>
+
+
+    <div class="box">
+        <h2>Final Output</h2>
+
+        {% if ai_result %}
+            {% set lines = ai_result.split('\n') %}
+            {% set option_line = lines[0] %}
+            {% set explanation = '\n'.join(lines[1:]) %}
+
+            <div class="ai-option">{{ option_line }}</div>
+            <div class="ai-details"><pre>{{ explanation }}</pre></div>
+        {% else %}
+            <p>No AI response found.</p>
+        {% endif %}
+    </div>
+</div>
+
+
+
+<script>
+function copyTranscript() {
+    const text = document.getElementById("transcript-text").innerText;
+    const btn = document.getElementById("copy-btn");
+    const btnText = document.getElementById("copy-btn-text");
+
+    navigator.clipboard.writeText(text).then(() => {
+        // Show ✅ and change text
+        btnText.innerText = "Copied!";
+        btn.innerHTML = "✅ " + btnText.outerHTML;
+
+        // Reset after 1.5 seconds
+        setTimeout(() => {
+            btnText.innerText = "Copy";
+            btn.innerHTML = "📋 " + btnText.outerHTML;
+        }, 1500);
+    }).catch(err => {
+        console.error("Copy failed:", err);
+    });
+}
+</script>
+
+
+</body>
+</html>

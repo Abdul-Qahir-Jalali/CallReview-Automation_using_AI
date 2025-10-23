@@ -1,0 +1,184 @@
+Qualified employee: An employee that is able to assist a caller with his or her inquiry. The qualified employee may at times need to call back to provide an answer or solution. As long as the same employee is the one intending to return the call, it is still considered handled.
+
+Interactive system: These types of systems are considered IVR technology, which stands for Interactive Voice Response. This technology allows customers to interact with a company using voice commands or keypads. IVR systems are often used in call centers and customer service to ask questions or request information from the caller in order to handle a caller's needs. In addition to being considered interactive, these may also be identified auto-attendants, which are each considered subsets of IVR systems.
+
+Unqualified employee: An employee that is not able to assist the caller with his or her inquiry. A caller may reach and speak with an unqualified employee, but it is not considered a handled call unless the caller is connected to someone who can assist them with all or the majority of their inquiry.
+
+
+
+
+
+Here are the options:
+
+option 1: Handled by a qualified employee or interactive system 
+Caller connected to a qualified employee who could help the caller with their inquiry
+Caller reached a qualified employee, but the same agent needs to call back to handle the inquiry
+This may be because they are busy at the time, or the qualified employee needs to gather additional information to handle the inquiry in a follow-up call.
+Whenever an employee indicates that they will be the one to return the call, the call should be considered handled by a qualified employee.
+Example: Caller: I want to talk to someone about a car I saw online. // Agent: I am a salesman, but I'm with a client. Can I call you back in a few minutes? // Caller confirms and the call ends.
+Example: Caller: I'm trying to reach Jim. // Agent: Jim is busy, but I'd be happy to help you. // Caller: I am waiting for some information about the RAV4. // Agent: Let me get those details from him, and I will give you a call back.
+Example: Caller: I'm trying to reach Bob. // Agent: This is Bob. How can I help you? // Caller: I'm wondering what the mileage is for that white Tacoma you have on the lot. // Agent: I don't have that information in front of me but let me go get those details and call you back.
+Call connection was lost after most of the caller's inquiries were handled, the caller's contact information was shared, or an appointment was discussed by a qualified employee
+This rule is meant for lost connections. This rule is not meant for other calls that are considered not connected, including but not limited to calls that are left on hold, calls that reach voicemail, or calls that result in a live message.
+Caller asked for a specific employee who handled the call
+Caller notified a qualified employee that they have arrived to drop off/pick up their pet from the office
+Caller asked for a specific employee who was not available, but the receptionist or another qualified employee handled the call
+Caller was connected to a qualified employee who was able to help the caller with most of their inquiry. However, a follow-up call was promised to take place by the same employee or another employee in order to answer remaining questions or provide remaining information.
+Example: Employee was able to answer most questions about available inventory and inventory specs, as well as invite the caller in for an appointment, but the caller needed to have a manager provide a return call to discuss additional pricing points.
+Example: Employee was able to field the caller's initial questions about services, discuss pricing, and provide detailed options, but a return call is needed by a technician to provide additional information about the requested service(s).
+Example: Employee handled caller's inquiries, scheduled soft appointment, and notified the caller that a manager will follow up to confirm.
+Example: Employee scheduled a home services appointment for a specific date, but the employee informs the caller that someone else will be calling back the morning of or day before in order to give a more specific appointment time or window of time.
+Caller had a general inquiry
+Example: Caller only asked for business hours, received that information, and did not need to reach another employee or department.
+Example: Caller only asked for an address or location, received that information, and did not need to reach out to another employee or department.
+Example: Caller only asked if a person works or is currently working at the business but did not need to speak with that person.
+Caller returned a missed call, the employee identified the original caller, but the caller was not interested in being connected to that employee
+Example: Caller: I'm returning a missed call. // Receptionist: Are you looking to buy a car? // Caller: Yes. // Receptionist: It looks like it was someone from our sales team. Would you like me to transfer you? // Caller: No thanks.
+Caller returned a missed call but the employee who answered was unable to identify who originally called and no further connection was needed
+Caller reached a qualified interactive system
+These calls will sound like interactive recordings that allow the customers to interact using voice commands or keypads to handle their needs. These will most often be used to handle account updates, payments, service inquiries, and appointment scheduling.
+A qualified interactive system is a system that has the capability to assist the caller and provide the necessary support or service during the call. Even if the request is not completed due to the caller's choice or lack of follow-through, the system can still be considered qualified if it provides the required options, guidance, or actions that could fulfill the caller's request within the call. This might include situations where the caller:
+Chose not to select from a list of provided options
+Decided not to provide the necessary information requested (e.g., selecting an appointment time, or confirming details).
+Hung up or disconnected before completing the process
+Since the system is qualified to handle the request and the only barrier to completion is the caller's actions (or inaction), it is classified differently from an unqualified system. The system itself had the capability to assist, but due to the caller's choice or lack of follow-through, the request was not completed.
+Remember: An interactive system that does not have the ability to provide immediate or actionable support for the caller's request during the call is considered unqualified, and those calls should be reviewed as Not handled: other.
+Caller reached the business they intended to reach, but the employee who answered informed the caller that the business was unable to fulfill the caller's requests, and the employee recommended another business for the caller to contact
+Example: Caller wanted to speak to the finance manager, finance manager was reached, but the finance manager referred caller to 3rd party financing company for questions related to current payments.
+Example: Caller wanted to speak to someone in service, the service advisor was reached, but the advisor referred the caller to a separate service business because those services are not offered by the shop.
+Example: Caller reached a dental receptionist, caller asked the receptionist questions about an insurance policy, but the receptionist referred the caller to their insurance company for answers to those questions.
+Example: Caller was looking for home services, caller reached a call center agent, and the call center agent informed that caller that services could not be performed. The agent then provided contact information for local service providers that may be able to help the caller
+
+
+
+
+option 2:
+Not handled: call ended while on hold
+Caller was transferred from a person or business greeting and left on hold through the end of the call
+A business greeting is a recorded message that provides information to the caller, such as business hours, the office being closed, or all lines being busy at that time.
+Remember that calls are not considered ended while on hold if the caller placed and left the agent on hold. The agent must be the one to place the caller on hold for this option to apply.
+Caller was placed on hold by a live employee but he or she was no longer on the line when the employee returned to the call
+Caller was placed on hold by a live employee, to be transferred to another employee, but he or she was no longer on the line when the employee answered
+Call consisted of music from start to finish
+Some recordings may consist of speaking while music plays. These types of recordings can be used for various purposes, including advertisements and informational content, where the music creates atmosphere or tone while the speaking provides key context while the caller waits on hold.
+Caller reached a recording that informed them all representatives are currently unavailable, and they can remain on the line, or they secure their spot in the queue by making a selection on their phone
+Keep in mind that not all recordings that include phrases about team members being busy will be considered hold recordings. Some after-hours recordings, voicemail prompts, or even other types of business recordings may also include similar phrasing. If the recording cuts off before you can identify the exact type, the recording should be classified as unidentifiable and reviewed as Not handled: other. You should only review the call as Not handled: ended while on hold if the recording is clearly identifiable as a hold recording.
+Example: The recording may sound like, "All of our service associates are assisting other customers at this time. If you would like to leave a voice message, please press the pound key now. Otherwise, please remain on the line and one of our associates will be with you momentarily."
+Example: The recording may sound like, "All representatives are busy at this time. To hold your place in line and receive a call back when an available representative is ready, please press…"
+
+
+
+
+option 3: Not handled: nobody there, hung up during bridge, wrong number, spam
+Caller was not there or did not answer when the call was initially answered by the first employee that received the call
+Example: Call started with a bridge greeting, call rang, and then the first employee to receive the call answered the call. However, the caller was not there or did not respond to the answering agent.
+Example: The call rang, and then it was answered by a live agent before quickly ending in the middle of the introductory greeting from the agent that received the call.
+Caller dialed the wrong number
+Caller dialed a number that cannot be completed, was invalid, or was no longer in service
+Caller returned a missed call, and the employee informed them that the original caller dialed an incorrect phone number
+Audio only consisted of dial tone, fax machine, or other sounds
+Audio was unclear because it was a garbled or distorted recording
+Audio consists of overlapping recordings
+Call was only a few seconds in length and contained no clear audio or conversation
+This is intended for calls where little to no sound is heard. This is not intended for calls that are only a few seconds or less of ringing.
+Caller hung up during the bridge greeting
+A bridge greeting is a recorded message that serves as the initial point of contact when a caller contacts a business. Its primary purpose is to greet the caller and provide them with clear options for connecting to the appropriate department or person they need to reach. Essentially, the greeting "bridges" the caller from the initial ring to their desired destination by offering a menu of options. However, because these greetings often take time to deliver, callers may hang up before hearing the full set of options. If it is still recognizable as a greeting intended to connect the caller to a specific department or person, it should still be classified as a bridge greeting.
+Common examples of phrases in a bridge greeting might include:
+"Thank you for calling. Your call is important to us."
+"This call may be monitored or recorded for quality assurance and training purposes."
+"If you know your party's extension, you may dial it at any time."
+Keep in mind that recordings that contain a phrase like "Thank you for calling" are not always going to be automatically classified as a greeting. Many other business recordings begin with a thank you statement, and without additional information, we cannot definitively determine the exact recording type.
+For a recording to qualify as a greeting, there must be an additional indicator, such as:
+At least a portion of a bridge menu or indication that a bridge menu will be offered or included within the recording
+A notice that the call is being recorded
+An option for the caller to input an extension or select from a menu
+If a recording only contains a brief statement like "Thank you for calling [business name]" but lacks a qualifying element, then it could potentially be any number of recording types. It could be the start of a recording for a greeting, a menu, an after-hours message, a voicemail prompt, or even another type of business recording. Because we cannot determine the exact recording type, the recording would be classified as unidentifiable and reviewed as Not handled: other.
+
+
+
+
+option 4: Not handled: other
+Call consisted of ringing from start to finish
+This includes calls that are only a few seconds or less of ringing, as well as calls where the recording is only one ring.
+Caller hung up during an after-hours recording or other business recording
+Do not select this option if the after-hours recording is a voicemail prompt.
+Caller reached an interactive system / auto-attendant that was unable to assist the caller with their inquiry
+This is not the same as a qualified interactive system that has the capability to assist the caller, but, due to the caller's actions or inactions, does not complete the request. If the system provides the required options, guidance, or actions that could fulfill the caller's request within the call, but the caller's decision or actions prevent the completion of that request, the system is still considered qualified to handle the caller's request.
+However, an interactive system that cannot provide immediate or actionable support for the caller's request, during the call, is considered unqualified. For example, if a caller attempts to schedule an appointment but the system does not offer appointment times or allow the caller to complete the scheduling process directly, and instead only provides a text link or directs the caller to a website to handle the scheduling independently, then the system's response does not fulfill the caller's needs in real-time. As a result, the system cannot be considered qualified to handle the caller's request.
+Example: Interactive system: "Are you wanting to schedule a service appointment? // Caller: "Yes." // Interactive system: "Great. The most convenient way to schedule your appointment is by using our text link. If you are calling from a mobile device and would like to have the link sent to you, press 1. If you don't mind a short delay and would rather speak, to someone you may continue to hold." // Caller selects 1 to be sent the text link. // Interactive system: "I have sent you a text message with all available timing. Just select the time using the link. We look forward to seeing you. Thank you. Goodbye."
+Call reached an after-hours recording and it was clear that it was not a voicemail prompt
+Call ended on an unidentifiable business recording
+Do not select this option when the call ends on an identifiable business recording that has repeated throughout the call. Even if the message is cut off at the end of the call, the fact the recording has repeated means that it is an identifiable recording.
+Keep in mind that if a recording only contains a brief statement like "Thank you for calling [business name]" but lacks a qualifying element to indicate that it is a bridge greeting, then it could potentially be any number of recording types. It could be the start of a recording for a greeting, a menu, an after-hours message, a voicemail prompt, or even another type of business recording. Because we cannot determine the exact recording type, the recording would be classified as unidentifiable. If the recording has a qualifying element to indicate that it is a bridge greeting, it should be reviewed as Not handled: nobody there, hung up during bridge, wrong number, spam.
+A recording may also indicate that all representatives are busy and then cut off before the recording type can be identified. These recordings are not always hold recordings. At times, they may be the start of after-hours recordings, voicemail prompts, or even other types of business recordings. If the recording cuts off before you can identify the recording type, the recording should be considered unidentifiable and reviewed as Other.
+Caller reached a department menu or other business menu that was not a bridge greeting
+Remember a bridge greeting can consist of a menu, but not every menu is a bridge greeting.
+Caller opted to receive a text and was then offered to leave a voicemail as a secondary option but declined to do so
+When a caller agrees to receive a text back and is then offered the option to leave a voicemail as a secondary option but declines to do so, the primary form of contact is established as the text. Because the voicemail is a secondary option that has been declined, this should not be reviewed as Not handled: reached voicemail and did not leave a message.
+
+
+
+
+option 5: Not handled: left message on voicemail
+Caller reached voicemail and left a message
+If there were clear audible spoken words that were intended for the recipient of the call, and these were recorded by the voicemail that the caller reached, then the recording qualifies as a voicemail message. There are no requirements for what these spoken words need to be to qualify as a voice message. This means that even if a voicemail recorded a caller that thought they were speaking to a live person, or even if the message was incomplete, it can still be considered a voicemail message. If, however, the recording was only background noise or it was an inaudible recording, then the recording does not qualify as a voicemail message.
+If a caller agreed to receive a text but was then given the option to leave a voicemail as a secondary choice, and they chose to leave a voicemail, the voicemail message should be considered the primary outcome of the call.
+Some voicemail prompts may include after-hours information. If the information was clearly part of a voicemail prompt and a voicemail message was left, it should be considered left message on voicemail.
+Caller spoke with a live agent but was ultimately transferred to voicemail and left a message
+
+
+
+
+option 6: Not handled: reached voicemail and did not leave message
+Caller reached voicemail and did not leave a message
+Some recordings give the caller the option to be directed to voicemail by selecting a choice on their phone. This allows the caller to reach voicemail if they choose to do so. However, the caller has not actually reached voicemail until they make that selection. Do not classify the call as reaching voicemail unless the caller has made the selection and is directed to voicemail.
+If a caller agreed to receive a text back and was then offered the option to leave a voicemail as a secondary option but declined to do so, the primary form of contact was established as the text. Because the voicemail was a secondary option that was declined, the call should not be reviewed as reached voicemail. Instead, the correct selection is Not handled: other.
+Caller reached an after-hours voicemail prompt and did not leave a message
+Some voicemail prompts may include after-hours information. If the information was clearly part of a voicemail prompt and the caller did not leave a message, it should be considered reached voicemail and did not leave message.
+Caller reached voicemail but the mailbox was full
+Caller reached voicemail but the recording was inaudible or only background noise
+Caller reached a personalized recording and did not leave a message
+Unless otherwise made clear, personalized recordings should be considered personal voicemail prompts, even when the recordings were cut off before they were completed.
+If, however, a caller reached an automated recording, that was not clearly identifiable and was not for a personal extension, it should be considered an unidentifiable business recording.
+
+
+
+
+option 7: Not handled: live message left for another employee
+Caller did not connect to the intended individual or a qualified employee and instead left a message with a live person meant to be passed on to the intended employee
+This option is not intended for calls where the caller has provided their information to an interactive system / auto-attendant for a call back from a live employee. This option is only intended for calls where the caller has left a live message with a live employee.
+Example: Caller: Can I speak with Janet? // Employee: She's not currently available. Can I get your name and number and have her call you back? // Caller provides his or her name and number for a call back from Janet.
+Example: Caller: I am running a little late for my appointment with John. // Employee: I'll run back there and let him know.
+Example: Caller: I received a message about adding an oil change to my service today, and I wanted to confirm that with my service advisor. // Employee: I'll let your service advisor know.
+
+
+
+
+option 8: Not handled: live conversation but no live message left
+Caller did not connect to the intended individual or a qualified employee and ended the call without leaving a live message
+Caller was offered the option of leaving a message with an unqualified employee but declined to leave a live message
+Call reached the wrong employee or department, and the answering employee advised the caller to call back in order to be connected to the appropriate person or department.
+Call connection was lost before any relevant information was shared
+
+
+
+
+option 9: Unfamiliar Language
+Select this option if the call was in any language that you are unfamiliar with and unqualified to review.
+This option is not intended for calls that contain no spoken words.
+
+
+
+
+
+
+options:
+1:Handled by a qualified employee or interactive system
+2:Not handled: call ended while on hold
+3:Not handled: nobody there, hung up during bridge, wrong number, spam
+4:Not handled: other
+5:Not handled: left message on voicemail
+6:Not handled: reached voicemail and did not leave message
+7:Not handled: live message left for another employee
+8:Not handled: live conversation but no live message left
+9:Unfamiliar Language

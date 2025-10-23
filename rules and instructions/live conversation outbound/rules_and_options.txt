@@ -1,0 +1,71 @@
+Category Instructions: Live Conversation - Outbound
+The purpose of this category Live Conversation - Outbound is to determine if the person who placed a call reached the intended contact, a spokesperson for the intended contact, or the business they were intending to reach.
+
+Helpful information:
+
+Connected: A call is considered connected when the person who placed the call successfully reached an intended contact, a spokesperson for the intended contact, or the business they were intending to reach. The call does not need to be considered handled, nor does it matter if the intended contact hung up or if the line disconnected. If the person who placed the call successfully reached the intended contact, the outcome of that call is irrelevant.
+Intended Contact: The intended contact is defined as the individual the caller was attempting to reach.
+This will most often be made clear by the caller stating the name of who they are trying to reach.
+For automotive calls, when, and only when, the caller does not specify the name of the person they are trying to reach, the intended contact is considered the owner or driver of the vehicle.
+However, if the caller specified who they intended to contact by name, but that person is not the owner or driver of the vehicle, the intended contact is still considered the person the caller specified by name.
+Spokesperson: Calls may also be considered connected if the caller reaches an individual that handled the call as a spokesperson of the intended contact.
+A spokesperson may be someone such as a spouse, family member, or friend that speaks on behalf of the intended party
+This, however, is different from a conversation with someone who DOES NOT handle the call as a spokesperson, and instead takes a live message so that the intended party can handle the reason for the call.
+One-sided recordings: For some outbound calls, you may only hear the caller's voice. This is by design. Please review one-sided recordings the same as you would regular outbound call, based on the instructions below.
+
+
+Here are the options:
+option 1:Connected
+Select this option if the caller reached the intended contact, regardless of if the call was handled.
+Select this option if the caller has placed an outbound business-related call from one business to another and has reached the intended contact.
+Currently, most calls of this nature are placed by Call Box and Car Wars. However, there are other businesses that place calls of this nature, too.
+These calls will sometimes sound like inbound calls because they are answered by dealerships, clinics, or other places of business. However, these are true outbound calls placed to reach other businesses to discuss things such as product demos, industry forums, or business-related product/software sales or support, etc.
+Example: “Hi, Bob. I am calling from Callbox. I saw your demo request and wanted to get something scheduled.”
+Example: “Hello, Susan. We were calling to see if you are going to be attending the dental forum next week.”
+Select this option if you only hear one voice, but you can tell that the call connected to the intended contact.
+This type of call is considered a one-sided recording, and it is done by design. It should be reviewed using the same instructions used for all other Live Conversation - Outbound calls.
+Select this option if the caller reached the intended contact, even if the intended contact informed the caller that they are not the current owner or driver of the vehicle.
+Often, the intended contact will provide the caller with contact information for the vehicle's owner or driver.
+The intended contact may be unable to provide exact details that the caller is requesting, but that does not alter the fact that the caller has still successfully connected with the individual that he or she was attempting to reach.
+Select this option if the caller reached the intended contact, even if the caller immediately said they will need to call back.
+Select this option if the caller reached the intended contact and they asked to be removed from the calling list.
+Select this option if the caller reached the intended contact but the call dropped during the conversation.
+Select this option if the intended contact hung up after the caller established who they are.
+This will sound like a call recipient answering a call, the caller providing an introductory greeting, stating who they are, where they are calling from, or why they are calling, and then the call recipient hanging up in response to that introductory greeting from the caller.
+Calls of this nature ARE considered connected to the intended contact UNLESS it is clear that the call recipient is NOT the intended contact
+This is not the same scenario as a short recording where the caller has established a connection with the call recipient.
+Select this option if the caller reached an individual that spoke on behalf of the intended contact.
+These types of calls will have the inquiry handled by a spokesperson for the intended contact.
+This may be a spouse, family member, or friend of the intended contact that handled the conversation on behalf of that intended contact.
+This is different from someone who did not or could not handle an inquiry for the intended party and instead took a live message for the intended contact.
+Select this option if the caller is connected to an interactive system for payoff or other information that they intended to reach
+This will sound like an automated service that asks the caller questions and requires answers to be made by phone selections or voice commands.
+
+option 2 : Left a Message
+Select this option if the caller reached voicemail and left a message.
+Select this option if the caller left a live message for the intended contact.
+Live messages occur when the caller has reached a live individual, but it is not the intended contact or an individual that can speak on behalf of the intended contact. The individual who was reached will take the caller’s information to be passed onto the intended contact.
+Select this option if you only hear one voice, but you can tell that the caller has reached voicemail and left a message for the intended contact. This is considered a one-sided recording, and it is done by design
+
+option 4: Not the right person / no message
+Select this option if the caller had the wrong number.
+Select this option if the call reached voicemail and the caller does not leave a message.
+This could be because the caller hung up or the voicemail box was full.
+Select this option if the call only lasted a few seconds and no conversation was heard.
+This is different from 'no audio' calls that have a 00/nan in the upper right portion of the audio bar, calls that remain gray in color, and/or calls that do not play at all.
+Select this option if speaking can be heard, but it is not discernible or it is not an established connection or conversation between the caller and call recipient.
+Example: Only background speaking can be heard on the caller’s end, but it the caller is not speaking to the call recipient.
+Example: One side of the call answered the call with a “hello,” but the other end of the call did not reply.
+Select this option if the call is a spam call such as a recorded advertisement.
+Unfamiliar Language
+This option is found at the base of the audio bar, and it is intended for calls handled in unfamiliar languages.
+Select this option if the call is not in English language.
+This option is not intended for calls that contain no spoken words.
+
+
+
+options :
+option 1:  connected to intended party
+option 2:  left a message
+option 3:  not the right person / no message
+option 4:  unfamiliar language
