@@ -2,6 +2,34 @@
 
 This project automates the **Humanatic call review** process using **AI-powered transcription and decision-making**.
 
+## 📞 About Humanatic & Call Reviewing
+
+[**Humanatic**](https://www.humanatic.com/) is a platform where people get paid to **review and categorize recorded phone calls**.  
+Businesses upload their call recordings, and Humanatic reviewers listen to each one and decide the correct category — for example:
+
+- Was it a **sales call** or **support call**?  
+- Did the **agent follow the script** or **miss important details**?  
+- Should the call be **approved**, **rejected**, or **flagged**?
+
+Reviewers must carefully listen, analyze, and then select the correct option according to Humanatic’s rules and training material.
+
+---
+
+## 🤖 Why This Project
+
+This process can become repetitive and time-consuming.  
+To simplify it, I created an **automation tool** that can:
+
+- Record the call directly from the Humanatic review page  
+- Send it to **ElevenLabs** for high-quality AI transcription  
+- Pass the transcript to **DeepSeek AI**, which decides the correct review option  
+- Display the final decision, transcript, and justification on a local **Flask web app**
+
+In short — this project **automates the Humanatic call review process** using AI, saving time and reducing manual effort.
+
+---
+
+## Process:
 When a call recording is taken from Humanatic:
 1. The audio is sent to **ElevenLabs** via API for high-quality transcription.
 2. The resulting text is sent to **DeepSeek AI**, which uses predefined rules and instructions to review the call.
